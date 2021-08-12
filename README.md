@@ -71,9 +71,9 @@ To test out my algorithm, I thought it would be fun to use images of my friend�
 
 Three ways to improve the algorithm are:
 
-	1. Use a better model fit for face detection; such as OpenCV’s DNN module or VGG Face.
-	2. Increasing the training data and possibly including mixed breed classifications to improve the accuracy of the model. This could lead to multi-classification and make the model more flexible as well.
-	3. Conducting a GridSearch on several Neural Networks will help find the optimal model for face detection as well.
+1. Use a better model fit for face detection; such as OpenCV’s DNN module or VGG Face.
+2. Increasing the training data and possibly including mixed breed classifications to improve the accuracy of the model. This could lead to multi-classification and make the model more flexible as well.
+3. Conducting a GridSearch on several Neural Networks will help find the optimal model for face detection as well.
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 I'd like to acknowledge Udacity for publicly providing an amazing dataset to perform this classification project. 
