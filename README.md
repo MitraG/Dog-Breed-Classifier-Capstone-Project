@@ -54,6 +54,8 @@ Udacity provided a skeleton strategy that supported my progress in completing th
 	
 
 ## Results<a name="results"></a>
+A [blog post](https://mitraganeson.medium.com/dog-breed-classification-using-cnns-73596aa37a06) was written in Mediium to report the results of this project. 
+
 The following is the accuracy each model received on the test set: 
 
 	1. CNN from scratch: 7.4%
