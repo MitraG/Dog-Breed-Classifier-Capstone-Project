@@ -69,6 +69,10 @@ The following is the accuracy each model received on the test set:
 	
 To test out my algorithm, I thought it would be fun to use images of my friend’s pets and images of me and my friend as human examples! Although the model has only a test accuracy of 78.7%, the outcome of testing the algorithm is positive! Images of dogs are correctly classified by the model, most dogs with known breeds are correctly predicted by the model, and the model can distinguish between a human image and a dog image. When neither of those type of images are supplied, the model also produces the correct output which is saying ‘neither dog nor human’.
 
+![alt text](https://github.com/MitraG/Dog-Breed-Classifier-Capstone-Project/blob/main/images/result_1.jpg)
+![alt text](https://github.com/MitraG/Dog-Breed-Classifier-Capstone-Project/blob/main/images/result_2.jpg)
+![alt text](https://github.com/MitraG/Dog-Breed-Classifier-Capstone-Project/blob/main/images/result_3.jpg)
+
 Three ways to improve the algorithm are:
 
 1. Use a better model fit for face detection; such as OpenCV’s DNN module or VGG Face.
