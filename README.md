@@ -1,10 +1,3 @@
-[//]: # (Image References)
-
-[image1]: ./images/sample_dog_output.png "Sample Output"
-[image2]: ./images/vgg16_model.png "VGG-16 Model Keras Layers"
-[image3]: ./images/vgg16_model_draw.png "VGG16 Model Figure"
-
-
 # Dog Breed Classifier Capstone Project
 A repository containing a Jupyter Notebook, saved models, requirements and images to deploy a fully-functioning Convolutional Neural Network (CNN) that detects dog and human faces as well as predict the dog breed or resembling breed respectively. 
 
