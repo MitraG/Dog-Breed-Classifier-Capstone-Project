@@ -5,7 +5,7 @@
 [image3]: ./images/vgg16_model_draw.png "VGG16 Model Figure"
 
 
-# Bog Breed Classifier Capstone Project
+# Dog Breed Classifier Capstone Project
 A repository containing a Jupyter Notebook, saved models, requirements and images to deploy a fully-functioning Convolutional Neural Network (CNN) that detects dog and human faces as well as predict the dog breed or resembling breed respectively. 
 
 ### Table of Contents
